@@ -1,0 +1,16 @@
+*/venv
+/venv
+
+*/__pycache__
+pycache
+
+*/.dockerignore
+dockerignore
+
+*/.env
+.env
+
+*/test
+test
+./test
+
